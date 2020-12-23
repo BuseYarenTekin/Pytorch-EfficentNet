@@ -62,3 +62,18 @@ mkl-fft 1.2.0 requires numpy>=1.16
 A view from the project: 
 
 ![Upload the Files](Files.png "Upload the Files")
+
+🔺 **Step 7:** Clone the cityscapesScripts
+
+>git clone https://github.com/mcordts/cityscapesScripts.git 
+
+🔺 **Step 8:** Clone the camvid
+
+>git clone https://github.com/alexgkendall/SegNet-Tutorial.git
+
+🔺 **Step 9:** 
+
+>python -m pip install cityscapesscripts
+
+🔺 **Step 10:** 
+>python -m pip install cityscapesscripts[gui]
