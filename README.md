@@ -40,3 +40,7 @@ torchsummary==1.5.1
 mkl-fft 1.2.0 requires numpy>=1.16
 
 >pip install numpy==1.16.0
+
+A view from the project: 
+
+![Upload the Files](Files.png "Upload the Files")
