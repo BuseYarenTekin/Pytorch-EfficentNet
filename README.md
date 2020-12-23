@@ -16,7 +16,14 @@
 >git clone https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks.git
 
 🔺 **Step 4:** Setup Pytorch=1.1.0
+
+OSX:
+
 >conda install pytorch==1.1.0 torchvision==0.3.0 -c pytorch
+
+Linux and Windows:
+
+>conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
 
 🔺 **Step 5:** The requirements.txt file will load the libraries needed for your project in batch.
 >pip3 install -r requirements.txt
